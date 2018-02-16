@@ -13,10 +13,6 @@ Actually you can directly clone it from your favourite IDE .*
 
 2) Everything is already configured in pom.xml , so download and go ! :)
 
-### Youtube Tutorials ( I explain everything here)
-[![Tutorial](http://img.youtube.com/vi/H9G02EkohtU/0.jpg)](https://www.youtube.com/watch?v=H9G02EkohtU)
-
-
 
 
 
